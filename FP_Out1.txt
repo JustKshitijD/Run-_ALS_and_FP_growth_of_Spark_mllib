@@ -1,0 +1,8 @@
+Top 5 most frequent items are:
+1) Mineral water- 1788 times
+2) Eggs- 1348 times
+3) Spaghetti- 1306 times
+4) French fries- 1282 times
+5) Chocolate- 1229 times
+
+Note that I used minSupport as 0.15. Increasing this reduces the number of items displayed. 
